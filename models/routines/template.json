@@ -1,0 +1,25 @@
+{
+	"routine": {
+        "metadata": {
+            "name": "template",
+            "description": "Short description of routine."
+        },
+        "currency": {
+            "inWallet": "BTC",
+            "inMarket": "BTC-XRP"
+        },
+        "directives": {
+            "purchase": {
+                "price": 0.00004941,
+                "amount": 20
+            },
+            "sell": {
+                "price": 0.00005000,
+                "amount": 20
+            }
+        }
+    },
+    "cache": {
+
+    }
+}

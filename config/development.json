@@ -1,0 +1,11 @@
+{
+	"env": {
+        "options": {
+            "hostname": "localhost",
+    		"listenPort": 8999,
+            "baseUrl": "https://bittrex.com/api/v1.1/",
+            "apiKey": "test",
+            "apiSecret": "test"
+        }
+    }
+}

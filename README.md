@@ -32,3 +32,10 @@ A routine is any valid javascript file accompanied by a configuration file.  Thi
 
 ### Creating a Routine
 Simply add a set of `.js` and `.json` files (please ensure the names match).  While the routine may contain any valid javascript, a configuration file is required for any value that may be changed in the future.
+
+### Running a Routine
+```
+node app.js --routine <routine>
+
+ex. node app.js --routine template
+```
